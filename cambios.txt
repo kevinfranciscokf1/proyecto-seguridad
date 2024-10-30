@@ -1,0 +1,5 @@
+data.ts
+settings.component.html -> src/app/layout/common/settings/
+index.html -> src/
+compact.component.html -> src/app/layout/layouts/vertical/compact
+app.config.ts -> src/app/core/config/
